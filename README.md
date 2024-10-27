@@ -1,1 +1,3 @@
 # vscing-go
+
+- go.sum
